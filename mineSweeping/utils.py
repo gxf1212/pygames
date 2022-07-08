@@ -64,7 +64,8 @@ class ColorTheme(object):
                         7: thistle,
                         8: yellow,
                         9: brick}
-        return btn_color, btn_bg_other, btn_bg_color
+        themefile = './resources/light.json'
+        return btn_color, btn_bg_other, btn_bg_color, themefile
 
     def star_theme(self):
         btn_color = {0: black,  # whatever
@@ -90,5 +91,6 @@ class ColorTheme(object):
                         7: thistle,
                         8: yellow,
                         9: brick}
-        return btn_color, btn_bg_other, btn_bg_color
+        themefile = './resources/dark.json'
+        return btn_color, btn_bg_other, btn_bg_color, themefile
 

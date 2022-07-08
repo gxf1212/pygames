@@ -25,13 +25,13 @@
   },
   "button": {
     "colours": {
-      "normal_bg": "#45494e",
+      "normal_bg": "#ffffff",
       "hovered_bg": "#35393e",
       "disabled_bg": "#25292e",
       "selected_bg": "#193754",
       "active_bg": "#193754",
       "dark_bg": "#15191e",
-      "normal_text": "#c5cbd8",
+      "normal_text": "#000000",
       "hovered_text": "#FFFFFF",
       "selected_text": "#FFFFFF",
       "disabled_text": "#6d736f",

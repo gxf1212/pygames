@@ -102,3 +102,11 @@ matrix = generate_game(LEN_X, LEN_Y, NUM_MINE)
 # btn_font = pygame.freetype.Font(r"C:\Windows\Fonts\arial.ttf", 24)
 # text = btn_font.render_to(screen, (rect_x+edgelen/2, rect_y+edgelen/2), '1')
 
+# self.result_dialog = UIConfirmationDialog(rect=result,
+#                                           manager=self.manager,
+#                                           action_long_desc='sssss',
+#                                           window_title='Game Over')
+
+# center = self.screen.get_rect().center
+# add_text(self.screen, self.result_font, 'GAME OVER!',
+#          (center[0], center[1]), red)
