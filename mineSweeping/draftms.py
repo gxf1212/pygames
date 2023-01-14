@@ -110,3 +110,4 @@ matrix = generate_game(LEN_X, LEN_Y, NUM_MINE)
 # center = self.screen.get_rect().center
 # add_text(self.screen, self.result_font, 'GAME OVER!',
 #          (center[0], center[1]), red)
+

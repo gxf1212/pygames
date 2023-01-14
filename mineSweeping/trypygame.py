@@ -331,8 +331,8 @@ class Game(object):
             time.sleep(0.04)
 
 
-game = Game(1, 1, 0)
-# game = Game(10, 10, 20)
+# game = Game(1, 1, 0)
+game = Game(10, 10, 15)
 game.newgame()
 
 #%% test
